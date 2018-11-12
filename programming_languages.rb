@@ -42,7 +42,7 @@ langs = {
     :javascript => {
       :type => "interpreted"
     }
- 
+
   }
 }
-reformat_languages(langs)
+ puts reformat_languages(langs)
